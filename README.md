@@ -12,7 +12,9 @@ Here, mymodel.h5 is pretrained transformer model to generate reply.
 The data for training transformer model is collected from kaggle https://www.kaggle.com/datasets/atharvjairath/empathetic-dialogues-facebook-ai .
 And necessary data preprocessing is done to obtain cleaneddata.csv.
 
-2. emotion_model\Emotion_Model.h5 is pretrained model to detect Emotion from voice.
+2. Add models from given links
+   emotion_model\Emotion_Model.h5 is pretrained model to detect Emotion from voice.
+   Text_emotion.sav is pretrained model to detect Emotion from text
 
 
 Install requirements.txt for merged.ipynb to work
